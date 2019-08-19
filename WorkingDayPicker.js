@@ -5,7 +5,7 @@ sap.ui.define([
     "use strict";
   
    /**
-	 * Handles OData messages by attaching model events and catching & displaying messages
+	 * Date picker control that only allows working days to be selected
 	 * @class
 	 * @extends sap.m.DatePicker
 	 * @author Furkan Soenmez
